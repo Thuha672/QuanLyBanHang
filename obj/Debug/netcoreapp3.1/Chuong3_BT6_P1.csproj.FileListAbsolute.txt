@@ -1,0 +1,13 @@
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\bin\Debug\netcoreapp3.1\Chuong3_BT6_P1.exe
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\bin\Debug\netcoreapp3.1\Chuong3_BT6_P1.deps.json
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\bin\Debug\netcoreapp3.1\Chuong3_BT6_P1.runtimeconfig.json
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\bin\Debug\netcoreapp3.1\Chuong3_BT6_P1.runtimeconfig.dev.json
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\bin\Debug\netcoreapp3.1\Chuong3_BT6_P1.dll
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\bin\Debug\netcoreapp3.1\Chuong3_BT6_P1.pdb
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\obj\Debug\netcoreapp3.1\Chuong3_BT6_P1.csprojAssemblyReference.cache
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\obj\Debug\netcoreapp3.1\Chuong3_BT6_P1.csproj.CoreCompileInputs.cache
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\obj\Debug\netcoreapp3.1\Chuong3_BT6_P1.AssemblyInfoInputs.cache
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\obj\Debug\netcoreapp3.1\Chuong3_BT6_P1.AssemblyInfo.cs
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\obj\Debug\netcoreapp3.1\Chuong3_BT6_P1.dll
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\obj\Debug\netcoreapp3.1\Chuong3_BT6_P1.pdb
+D:\ViduC#\Chuong3_BT6\Chuong3_BT6_P1\obj\Debug\netcoreapp3.1\Chuong3_BT6_P1.genruntimeconfig.cache
